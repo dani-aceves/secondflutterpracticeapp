@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       title: 'Startup Name Generator',
       theme: ThemeData(
         // Add the 3 lines from here...
-        primaryColor: Colors.deepPurple,
+        primaryColor: Colors.brown,
       ),
       home: RandomWords(),
     );
